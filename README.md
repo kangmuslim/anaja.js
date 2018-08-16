@@ -1,0 +1,2 @@
+# anaja.js
+anaja
